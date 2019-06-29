@@ -5,3 +5,6 @@
 
 
 ### Data set can be found at [here](https://catalog.data.gov/dataset)
+
+
+#### The purpose of this project was to find a proof of concept for a binary classification model for a seperate project that is in development. As such the conclusions made here are not greatly meaningful as the task accomplished is meaningless. Although it is important to understand that this was by design. The data is standardized and well structured this is not the case in the aforementioned project.
